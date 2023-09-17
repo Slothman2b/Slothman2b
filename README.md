@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Slothman2b
-- 👀 I’m interested in Linux and gaming.
-- 🌱 I’m currently learning rust and php :)
-- 💞️ I’m looking to collaborate on various projects and any that interest me.
+- 👀 I’m interested in Linux and cybersecurity.
+- 🌱 I’m currently learning rust, Tauri, and gamedev :)
 - 📫 How to reach me: 1kylejohns@protonmail.com
 
 <!---
