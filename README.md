@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slothman2b
 - 👀 I’m interested in Linux and cybersecurity.
-- 🌱 I’m currently learning rust, Tauri, and gamedev :)
+- 🌱 I’m currently learning at the University of Washington in Tacoma
 - 📫 How to reach me: 1kylejohns@protonmail.com
 
 <!---
