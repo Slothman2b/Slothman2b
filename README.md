@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <body>
     <header>
         <h1>Kyle Johnson</h1>
-        <h4>1530 169th st, Shoreline, Washington, 98155 | 1kylejohns@protonmail.com |  <a href="https://www.linkedin.com/in/kyle-johnson-2551a42a8/"> Linkedin Profile </a> </h4>
+        <h4> 1kylejohns@protonmail.com |  <a href="https://www.linkedin.com/in/kyle-johnson-2551a42a8/"> Linkedin Profile </a> </h4>
 
 
 <section>
